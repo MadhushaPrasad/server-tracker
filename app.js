@@ -8,4 +8,5 @@ const client = new Discord.Client({
     'DIRECT_MESSAGES',
     'DIRECT_MESSAGE_REACTIONS',
   ],
+  partials: ['MESSAGE', 'CHANNEL', 'REACTION'],
 });
