@@ -1,0 +1,2 @@
+# server-tracker
+discord bot
